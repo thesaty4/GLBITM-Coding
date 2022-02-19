@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "sstream": "c",
+        "ELEMENT_FREQUENCY.C": "cpp",
+        "element-freq.C": "cpp"
+    },
+    "python.pythonPath": "C:\\Users\\0D4Y\\anaconda3\\python.exe"
+}

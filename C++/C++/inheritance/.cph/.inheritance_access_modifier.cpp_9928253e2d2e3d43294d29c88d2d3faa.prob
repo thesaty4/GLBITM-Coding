@@ -1,0 +1,1 @@
+{"name":"Local: inheritance_access_modifier","url":"f:\\C++\\C++\\inheritance\\inheritance_access_modifier.cpp","tests":[{"id":1644307230542,"input":"12","output":"Sum of suqare : 29"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\C++\\inheritance\\inheritance_access_modifier.cpp","group":"local","local":true}
